@@ -81,15 +81,12 @@ python manage.py migrate
 python manage.py createsuperuser
 python manage.py runserver
 
-Backend runs at http://127.0.0.1:8000
-
 Frontend (React)
 bash
 cd frontend
 npm install
 npm run dev
 
-Frontend runs at http://localhost:5173
 
 🧪 Testing
 
